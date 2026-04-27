@@ -1,18 +1,17 @@
 name: nuxt-feathers-zod
 description: >-
-  Nuxt module for FeathersJS v5 with embedded or remote mode, typed services,
-  auth helpers and CLI-first generation.
+  Nuxt module for FeathersJS v5 with embedded or remote mode, typed services, auth helpers and CLI-first generation.
 repo: vevedh/nuxt-feathers-zod
 npm: nuxt-feathers-zod
-icon: ''
+icon: https://raw.githubusercontent.com/vevedh/nuxt-feathers-zod/main/docs/public/images/plume-dark.png
 github: https://github.com/vevedh/nuxt-feathers-zod
 website: https://github.com/vevedh/nuxt-feathers-zod
-learn_more: ''
+learn_more: https://vevedh.github.io/nuxt-feathers-zod/
 category: Devtools
 type: 3rd-party
 maintainers:
-  - name: vevedh
-    github: vevedh
+- name: vevedh
+  github: vevedh
 compatibility:
   nuxt: ^4.0.0
   requires: {}
