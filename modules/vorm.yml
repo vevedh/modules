@@ -15,3 +15,4 @@ compatibility:
   nuxt: '>=3.0.0'
   requires:
     vorm-vue: '>=1.0.0'
+archived: true
